@@ -1,0 +1,28 @@
+# React / Vite
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.*
+
+# Java / Maven
+backend/target/
+backend/.mvn/
+backend/.env
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment / secrets
+.env
+*.env
+application-local.properties
+
+# Local Spring configuration
+backend/src/main/resources/application.properties
+backend/error.txt
